@@ -9,15 +9,16 @@ Results-driven Business Data Analyst with over 3 years of experience delivering 
 ### Work Experience
 Carfax - London, Ontario, Canada
 Business Data Analyst (Data Services)				             March 2021 - Present | Permanent
-•	Performed analysis of data to identify trends, anomalies, and opportunities for improvement.
-•	Extracting, cleaning, and manipulating large datasets with millions of records for accuracy and quality utilizing SQL, root cause analysis.
-•	Design and maintain reporting dashboards for internal and external stakeholders, respectively, utilizing Power BI, R, Python, and Excel-complemented with Pivot Tables, Macros, and VLOOKUP.
-•	Extract and load millions of records pertaining to Vehicle History Reports and have them aligned to various stakeholders' requirements. 
-•	Prepared regular and ad-hoc reports to support business decisions and performance tracking.
-•	Address the issues in the data through root cause determination and fix the problems found to improve overall data reliability. 
-•	Periodically work with Oracle databases: query large data sets to extract insights that help further optimize the business processes.
-•	Perform invoicing through automation of processes by using R scripts and liaising with the finance teams towards timely payment.
-•	Gained excellent customer feedback for promptly responding to the queries at hand, ensuring high levels of customer satisfaction and high level of verbal and written communication skills.
+- Performed analysis of data to identify trends, anomalies, and opportunities for improvement.
+- Extracting, cleaning, and manipulating large datasets with millions of records for accuracy and quality utilizing SQL, root cause analysis.
+- Design and maintain reporting dashboards for internal and external stakeholders, respectively, utilizing Power BI, R, Python, and Excel-complemented with Pivot Tables, Macros, and VLOOKUP.
+- Extract and load millions of records pertaining to Vehicle History Reports and have them aligned to various stakeholders' requirements. 
+- Prepared regular and ad-hoc reports to support business decisions and performance tracking.
+- Address the issues in the data through root cause determination and fix the problems found to improve overall data reliability. 
+- Periodically work with Oracle databases: query large data sets to extract insights that help further optimize the business processes.
+- Perform invoicing through automation of processes by using R scripts and liaising with the finance teams towards timely payment.
+- Gained excellent customer feedback for promptly responding to the queries at hand, ensuring high levels of customer satisfaction and high level of verbal and written communication skills.
+
 Carfax - London, Ontario, Canada
 Data Mapping Specialist (Internship)			           Sep 2020 - March 2021 | Contract (Remote)
 •	Mapped and validated more than 140,000 data records, improving accuracy across internal systems.
