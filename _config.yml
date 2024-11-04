@@ -6,11 +6,8 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
----
-layout: page
-title: "Courses"
-permalink: /courses/
----
+
+# Navigation menu
 nav:
   - title: "Home"
     url: "/"
