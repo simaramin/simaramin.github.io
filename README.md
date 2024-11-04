@@ -11,7 +11,7 @@ Results-driven Business Data Analyst with over 3 years of experience delivering 
 - Post Graduate Certificate | Financial Planning | The College of Fanshawe London, ON (_Dec 2019_)
 
 ## Work Experience
-**Business Data Analyst @ CARFAX | London, ON | (_March 2021 - Present | Permanent_)**
+**Business Data Analyst @ CARFAX | London, ON (_March 2021 - Present | Permanent_)**
 - Performed analysis of data to identify trends, anomalies, and opportunities for improvement.
 - Extracting, cleaning, and manipulating large datasets with millions of records for accuracy and quality utilizing SQL, root cause analysis.
 - Design and maintain reporting dashboards for internal and external stakeholders, respectively, utilizing Power BI, R, Python, and Excel-complemented with Pivot Tables, Macros, and VLOOKUP.
@@ -22,28 +22,25 @@ Results-driven Business Data Analyst with over 3 years of experience delivering 
 - Perform invoicing through automation of processes by using R scripts and liaising with the finance teams towards timely payment.
 - Gained excellent customer feedback for promptly responding to the queries at hand, ensuring high levels of customer satisfaction and high level of verbal and written communication skills.
 
-#### Carfax - London, Ontario, Canada
-Data Mapping Specialist (Internship)			           Sep 2020 - March 2021 | Contract (Remote)
+**Data Mapping Specialist (Internship) @ CARFAX | London, ON (_Sep 2020 - March 2021 | Contract_)**
 - Mapped and validated more than 140,000 data records, improving accuracy across internal systems.
 - Collaborated with stakeholders to ensure data-driven insights were accurately reflected in ad-hoc audit reports, supporting ongoing data quality assurance.
 
-#### Scotiabank – London, ON, Canada
-Customer Service Representative					              Nov 2019 – Sep 2020 | Part-time
+**Customer Service Representative	@ Scotiabank | London, ON (_Nov 2019 – Sep 2020 | Part-time_)**
 - Processed a variety of financial transactions in observance with bank standards and legal requirements in a timely and accurate fashion.
 - Always managed the customer data on CRM systems and accuracy and confidentiality of data handling and reporting.
 - Provided customized banking solutions for customers to uplift the performance of the branch and maintain customer satisfaction.
 - Assessed the credit risk of 1,700 accounts with the latest available financial data and made appropriate decisions that could help minimize the risk.
 - Liaised in the preparation of Financial Reports by ensuring the integrity and accuracy of financial data across the different systems.
 
-#### Tablofaz – Tehran, Iran
-Business Supervisor and Coordinator				              Aug 2010 – Dec 2018 | Permanent
+**Supply Chain Manager @ Tablofaz | Tehran, Iran (_Aug 2010 – Dec 2018 | Permanent_)**
 - Led the supply chain operation for over 8 years, commanding the end-to-end import process of industrial products from European countries.
 - Negotiated contracts with global providers, coordinated shipping, oversaw customs procedures, and ensured timely delivery to end users.
 - In charge of the operation procedure of steel billet export, which included negotiating the deal with overseas buyers, completing customs procedures, and organizing shipment to countries in the Middle East.
 - Carrying out invoicing and settling financial transactions both for imports and exports, keeping in mind compliance to ensure timely payments.
 - Coordinated the supply chain by liaising with overseas partners in standardizing procedures for better efficiency.
 
-### Technical Skills
+## Technical Skills
 - Data Analysis & Programming: SQL, Python (Pandas, NumPy), R (dplyr, tidyverse)
 - Data Visualization: Power BI, Tableau, Excel (Pivot Tables), ggplot2, Matplotlib
 - Data Management: ETL processes, data cleaning, query optimization, data profiling
@@ -51,7 +48,7 @@ Business Supervisor and Coordinator				              Aug 2010 – Dec 2018 | Per
 - CRM & ERP Systems: Salesforce, SAP Concur, Access
 - SQL Server: Administration, monitoring, query optimization
 
-### Additional Skills
+## Additional Skills
 - Strong oral and written communication, translating complex data into actionable insights for technical and non-technical stakeholders.
 - Critical thinking, problem-solving, and collaboration across cross-functional teams.
 - Highly organized with proven ability to manage projects and timelines under tight deadlines in fast-paced environments.
