@@ -19,7 +19,7 @@ Business Data Analyst (Data Services)				             March 2021 - Present | Per
 - Perform invoicing through automation of processes by using R scripts and liaising with the finance teams towards timely payment.
 - Gained excellent customer feedback for promptly responding to the queries at hand, ensuring high levels of customer satisfaction and high level of verbal and written communication skills.
 
-Carfax - London, Ontario, Canada
+#### Carfax - London, Ontario, Canada
 Data Mapping Specialist (Internship)			           Sep 2020 - March 2021 | Contract (Remote)
 •	Mapped and validated more than 140,000 data records, improving accuracy across internal systems.
 •	Collaborated with stakeholders to ensure data-driven insights were accurately reflected in ad-hoc audit reports, supporting ongoing data quality assurance.
@@ -30,7 +30,8 @@ Customer Service Representative					              Nov 2019 – Sep 2020 | Part-t
 •	Provided customized banking solutions for customers to uplift the performance of the branch and maintain customer satisfaction.
 •	Assessed the credit risk of 1,700 accounts with the latest available financial data and made appropriate decisions that could help minimize the risk.
 •	Liaised in the preparation of Financial Reports by ensuring the integrity and accuracy of financial data across the different systems.
-Tablofaz – Tehran, Iran
+
+#### Tablofaz – Tehran, Iran
 Business Supervisor and Coordinator				              Aug 2010 – Dec 2018 | Permanent
 •	Led the supply chain operation for over 8 years, commanding the end-to-end import process of industrial products from European countries.
 •	Negotiated contracts with global providers, coordinated shipping, oversaw customs procedures, and ensured timely delivery to end users.
