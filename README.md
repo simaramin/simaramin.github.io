@@ -7,7 +7,7 @@ Results-driven Business Data Analyst with over 3 years of experience delivering 
 - Master’s, Business Management Administration				        Tehran, Iran, 2016
 
 ### Work Experience
-Carfax - London, Ontario, Canada
+## Carfax - London, Ontario, Canada
 Business Data Analyst (Data Services)				             March 2021 - Present | Permanent
 - Performed analysis of data to identify trends, anomalies, and opportunities for improvement.
 - Extracting, cleaning, and manipulating large datasets with millions of records for accuracy and quality utilizing SQL, root cause analysis.
