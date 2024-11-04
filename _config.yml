@@ -11,3 +11,8 @@ layout: page
 title: "Courses"
 permalink: /courses/
 ---
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Courses"
+    url: "/courses/"
