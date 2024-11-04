@@ -2,9 +2,9 @@
 Results-driven Business Data Analyst with over 3 years of experience delivering data-driven solutions through collaboration with IT, Business Intelligence, Finance, and operational teams. Adept at extracting, cleaning, and analyzing large datasets from multiple sources, including financial databases, CRM systems, and ERP systems. Skilled in designing reports, dashboards, and visualizations that turn complex data into actionable insights. Expertise in SQL, Python, R, and visualization tools such as Power BI and Tableau. Experienced in administering SQL servers, conducting variance analysis, and providing budgeting and forecasting support. Known for managing projects efficiently in fast-paced environments.
 
 ### Education
-•	Post Graduate Certificate, Business Analysis				       London, ON, 2020
-•	Post Graduate Certificate, Financial Planning				       London, ON, 2019
-•	Master’s, Business Management Administration				        Tehran, Iran, 2016
+- Post Graduate Certificate, Business Analysis				       London, ON, 2020
+- Post Graduate Certificate, Financial Planning				       London, ON, 2019
+- Master’s, Business Management Administration				        Tehran, Iran, 2016
 
 ### Work Experience
 Carfax - London, Ontario, Canada
