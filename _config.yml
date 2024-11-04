@@ -1,6 +1,8 @@
-- name: Clean _site directory
-  run: rm -rf _site
-Title: Sima Ramin
+title: "Sima Ramin"
+description: "Resume"
 logo: /Users/simaramin/Downloads/Photos/Sima.jpg
-sima_doanloads: true
+sima_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
