@@ -1,3 +1,5 @@
+- name: Clean _site directory
+  run: rm -rf _site
 Title: Sima Ramin
 logo: /Users/simaramin/Downloads/Photos/Sima.jpg
 sima_doanloads: true
