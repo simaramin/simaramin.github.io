@@ -11,8 +11,7 @@ Results-driven Business Data Analyst with over 3 years of experience delivering 
 - Post Graduate Certificate | Financial Planning | The College of Fanshawe London, ON (_Dec 2019_)
 
 ## Work Experience
-** Carfax - London, Ontario, Canada
-Business Data Analyst (Data Services)				             March 2021 - Present | Permanent
+**Business Data Analyst @ CARFAX | London, ON | (_March 2021 - Present | Permanent_)**
 - Performed analysis of data to identify trends, anomalies, and opportunities for improvement.
 - Extracting, cleaning, and manipulating large datasets with millions of records for accuracy and quality utilizing SQL, root cause analysis.
 - Design and maintain reporting dashboards for internal and external stakeholders, respectively, utilizing Power BI, R, Python, and Excel-complemented with Pivot Tables, Macros, and VLOOKUP.
