@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Courses"
+permalink: /courses/
+---
+
 ## Courses Completed
 
 - Data Analysis in SQL
